@@ -1,0 +1,1 @@
+[('apple', 3), ('cranberry', 2), ('coat', 2), ('banana', 1), ('apple.', 1), ('rabbit', 1), ('bear', 1), ('koala', 1), ('milk', 1)]
