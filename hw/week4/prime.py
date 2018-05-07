@@ -11,5 +11,3 @@ def is_prime(n):
             counter+=1
     return True
  
-        
-        
